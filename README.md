@@ -1,9 +1,9 @@
 # BluetoothCar
 Designed and built a miniature motor car that is controlled by RF and Bluetooth using Arduino and HC-05.
 
-<img style="align:center" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/93f96a98-a6d5-45ca-9b1d-a816ecd37d05" width="45%">
-<p>Circuit Diagram Credit: My Team</p>
-<img src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/52765a75-5779-4b58-ab65-9e8f031ed7dd" width="45%">
+<img align="center" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/93f96a98-a6d5-45ca-9b1d-a816ecd37d05" width="45%">
+<p align="right" >Prototype Credit: My Team</p>
+<img align="center" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/52765a75-5779-4b58-ab65-9e8f031ed7dd" width="30%">
 <br>
 
 
