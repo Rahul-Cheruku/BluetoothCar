@@ -7,18 +7,18 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 <div class="row">
   <div class="column">
-  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" >  
-  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d">  
+  <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" >  
+   
 
   </div>
   <div class="column">
-
+    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
   </div>
   <div class="column">
-
+    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
   </div>
   <div class="column">
-
+    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
   </div>
 </div>
 
