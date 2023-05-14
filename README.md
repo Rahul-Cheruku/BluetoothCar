@@ -1,7 +1,7 @@
 # BluetoothCar
 Designed and built a miniature motor car that is controlled by RF and Bluetooth using Arduino and HC-05.
 
-<img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/93f96a98-a6d5-45ca-9b1d-a816ecd37d05" width="45%">
+<img  style="align:center" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/93f96a98-a6d5-45ca-9b1d-a816ecd37d05" width="45%">
 
 
 We over the time have seen robots becoming part of our supply chain, from mining to assembly and from surveillance to military operations, this combination of engineering and technology blend has made our life easier as well as safer. We would like to explore this sector of Automation/Robotics, and try to solve real world problems with our innovation. This time we are focusing on very basic construction of robot using Arduino and try to understand the tool we are going to use.
