@@ -23,6 +23,12 @@ We over the time have seen robots becoming part of our supply chain, from mining
 <p align="center" >Circuit Diagram Credit: YT/@DIYBuilder link below</p>
 </p>
 <br>
+<p align="center">
+<img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/63bd5d83-29fe-4b23-b5b0-642385353dd2" width="45%">
+<p align="center" >Flow Cart</p>
+</p>
+
+
 
 ## Project Canvas
 <p align="center">
