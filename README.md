@@ -5,12 +5,13 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 # Technical data about project
 
-![image](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d)
+![image | width=100](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d)
 
 
 ![image](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/59c2222e-dbae-4f0c-9f44-1789a0a30983)
 
 (Source: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) 
+
 (Source: https://www.youtube.com/watch?v=Q36NbjPMV5k&t=29s&ab_channel=DIYBuilder) 
 
 
