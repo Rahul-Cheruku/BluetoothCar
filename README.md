@@ -5,12 +5,27 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 # Technical data about project
 
-<figure>
+<div class="row">
+  <div class="column">
+  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">  
+  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">  
+
+  </div>
+  <div class="column">
+
+  </div>
+  <div class="column">
+
+  </div>
+  <div class="column">
+
+  </div>
+</div>
+
+
 <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">  
-  
-  
-<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
+
+
 
 
 <img style="display:inline-block" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/59c2222e-dbae-4f0c-9f44-1789a0a30983" width="50%">
