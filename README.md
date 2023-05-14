@@ -1,36 +1,23 @@
 # BluetoothCar
 Designed and built a miniature motor car that is controlled by RF and Bluetooth using Arduino and HC-05.
 
+![image](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/93f96a98-a6d5-45ca-9b1d-a816ecd37d05)
+
+
 We over the time have seen robots becoming part of our supply chain, from mining to assembly and from surveillance to military operations, this combination of engineering and technology blend has made our life easier as well as safer. We would like to explore this sector of Automation/Robotics, and try to solve real world problems with our innovation. This time we are focusing on very basic construction of robot using Arduino and try to understand the tool we are going to use.
 
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
 
 # Technical data about project
 
 
-<div style="align-item:center;">
-<img class="center" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/dab0f62c-c23b-455f-8e53-b3bc1c2a6271" width="45%">
-<img class="center" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/dab0f62c-c23b-455f-8e53-b3bc1c2a6271" width="45%">
-<img class="center" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/dab0f62c-c23b-455f-8e53-b3bc1c2a6271" width="50%">
-  </div>
 
 
+<img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/0f884872-e8e2-4d40-bb14-5395667e2393" width="45%">
+<img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/a94b2f9c-f7d3-49b7-8210-383105a92bb2" width="45%">
+<img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/3a5ede40-6fab-41fd-8a3c-e7d13cac6cb0" width="45%">
+<img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/46f2ac86-1dbb-46f2-ba26-e9555d87ab60" width="45%">
 
 
-
-
-
-
-
-
-![image](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/dab0f62c-c23b-455f-8e53-b3bc1c2a6271)
 
 (Useful controller App: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) 
 
