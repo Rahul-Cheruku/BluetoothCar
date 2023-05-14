@@ -13,7 +13,7 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 
 <img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/0f884872-e8e2-4d40-bb14-5395667e2393" width="45%">
-
+<p>Circuit Diagram Credit:YT/@DIYBuilder link below</p>
 <br>
 <img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/a94b2f9c-f7d3-49b7-8210-383105a92bb2" width="45%">
 <img  src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/3a5ede40-6fab-41fd-8a3c-e7d13cac6cb0" width="45%">
