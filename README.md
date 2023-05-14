@@ -5,7 +5,8 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 # Technical data about project
 
-![image](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d | width=100)
+
+<img src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">
 
 
 ![image](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/59c2222e-dbae-4f0c-9f44-1789a0a30983)
