@@ -5,31 +5,6 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 # Technical data about project
 
-<div class="row">
-  <div class="column">
-  <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" >  
-   
-
-  </div>
-  <div class="column">
-    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
-  </div>
-  <div class="column">
-    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
-  </div>
-  <div class="column">
-    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
-  </div>
-</div>
-
-
-
-(Source: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) 
-
-(Source: https://www.youtube.com/watch?v=Q36NbjPMV5k&t=29s&ab_channel=DIYBuilder) 
-
-
-
 <style>
 .row {
   display: flex;
@@ -67,6 +42,33 @@ We over the time have seen robots becoming part of our supply chain, from mining
 }
 
 </style>
+
+<div class="row">
+  <div class="column">
+  <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" >  
+   
+
+  </div>
+  <div class="column">
+    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
+  </div>
+  <div class="column">
+    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
+  </div>
+  <div class="column">
+    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
+  </div>
+</div>
+
+
+
+(Source: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) 
+
+(Source: https://www.youtube.com/watch?v=Q36NbjPMV5k&t=29s&ab_channel=DIYBuilder) 
+
+
+
+
 
 
 
