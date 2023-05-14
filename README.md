@@ -5,7 +5,7 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 # Technical data about project
 
-<style>
+<styles>
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -41,7 +41,7 @@ We over the time have seen robots becoming part of our supply chain, from mining
   }
 }
 
-</style>
+</styles>
 
 <div class="row">
   <div class="column">
