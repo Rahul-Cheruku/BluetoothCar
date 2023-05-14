@@ -5,66 +5,11 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 # Technical data about project
 
-<styles>
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0 4px;
-}
-
-/* Create four equal columns that sits next to each other */
-.column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%;
-}
-
-/* Responsive layout - makes a two column-layout instead of four columns */
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 50%;
-    max-width: 50%;
-  }
-}
-
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
-}
-
-</styles>
-
-<div class="row">
-  <div class="column">
-  <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" >  
-   
-
-  </div>
-  <div class="column">
-    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
-  </div>
-  <div class="column">
-    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
-  </div>
-  <div class="column">
-    <img alt="img" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d"> 
-  </div>
-</div>
 
 
+<img src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/dab0f62c-c23b-455f-8e53-b3bc1c2a6271" width="20">
 
-(Source: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) 
 
-(Source: https://www.youtube.com/watch?v=Q36NbjPMV5k&t=29s&ab_channel=DIYBuilder) 
 
 
 
@@ -75,5 +20,9 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 
 ![image](https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/dab0f62c-c23b-455f-8e53-b3bc1c2a6271)
+
+(Useful controller App: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) 
+
+(Reference: https://www.youtube.com/watch?v=Q36NbjPMV5k&t=29s&ab_channel=DIYBuilder) 
 
 
