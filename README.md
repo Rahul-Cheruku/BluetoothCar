@@ -7,9 +7,7 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 <figure>
 <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">  
-  
-  
- figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+<figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </figure>
 
 
