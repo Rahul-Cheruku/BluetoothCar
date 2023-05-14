@@ -7,8 +7,8 @@ We over the time have seen robots becoming part of our supply chain, from mining
 
 <div class="row">
   <div class="column">
-  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">  
-  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">  
+  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" >  
+  <img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d">  
 
   </div>
   <div class="column">
@@ -22,13 +22,6 @@ We over the time have seen robots becoming part of our supply chain, from mining
   </div>
 </div>
 
-
-<img alt="Trulli" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/e8632469-7876-42f1-b261-ad96942c108d" width="50%">  
-
-
-
-
-<img style="display:inline-block" src="https://github.com/Rahul-Cheruku/BluetoothCar/assets/77064752/59c2222e-dbae-4f0c-9f44-1789a0a30983" width="50%">
 
 
 (Source: https://play.google.com/store/apps/details?id=braulio.calle.bluetoothRCcontroller) 
